@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: OrderHistoryAPI
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: OrderHistoryAPI
+Build-Jdk: 1.7.0
+Built-By: GroSh001
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/OrderHistory
+ API/
+

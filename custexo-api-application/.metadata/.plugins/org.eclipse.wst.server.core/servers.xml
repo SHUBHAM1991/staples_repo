@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v7.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v7.0 Server at localhost" name="Tomcat v7.0 Server at localhost" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="4500" stop-timeout="1500" testEnvironment="true" timestamp="8">
+    <list key="modules" value0="CustomerLookupAPI::org.eclipse.jst.j2ee.server:CustomerLookupAPI::jst.web::2.3" value1="NomsOrderLookUpApi::org.eclipse.jst.j2ee.server:NomsOrderLookUpApi::jst.web::2.3" value2="OrderDetailApi::org.eclipse.jst.j2ee.server:OrderDetailApi::jst.web::2.3" value3="OrderHistoryAPI::org.eclipse.jst.j2ee.server:OrderHistoryAPI::jst.web::2.3" value4="PackingSlipApi::org.eclipse.jst.j2ee.server:PackingSlipApi::jst.web::2.3" value5="SmsAuditApi::org.eclipse.jst.j2ee.server:SmsAuditApi::jst.web::2.3" value6="RewardsMemberApi::org.eclipse.jst.j2ee.server:RewardsMemberApi::jst.web::2.3"/>
+  </server>
+</servers>

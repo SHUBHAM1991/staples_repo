@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<include file="/var/opt/vmware/vfabric-tc-server-standard/inst1/logbackCfgNoms.xml"/>
+</configuration>

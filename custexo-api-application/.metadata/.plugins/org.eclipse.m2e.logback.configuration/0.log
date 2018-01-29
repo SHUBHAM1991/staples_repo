@@ -1,0 +1,1178 @@
+2017-10-27 04:29:48,240 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:ContactHistoryCorrectionService:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\pom.xml.
+2017-10-27 04:29:50,552 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:30:04,708 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CustomerLookupAPI:CustomerLookupAPI:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\CustomerLookupAPI\pom.xml.
+2017-10-27 04:30:09,435 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 04:30:12,573 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 04:30:27,285 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:KafkaXmlProducer:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaXmlProducer\pom.xml.
+2017-10-27 04:30:29,667 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:NomsOrderLookUpApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\NomsOrderLookUpApi\pom.xml.
+2017-10-27 04:30:36,059 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:OrderDetailApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\OrderDetailApi\pom.xml.
+2017-10-27 04:30:39,661 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: OrderHistoryAPI:OrderHistoryAPI:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\OrderHistoryAPI\pom.xml.
+2017-10-27 04:30:43,154 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:PackingSlipApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\PackingSlipApi\pom.xml.
+2017-10-27 04:30:46,895 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:PreferenceCentreApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\PreferenceCentreApi\pom.xml.
+2017-10-27 04:30:50,648 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:RewardsMemberApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\RewardsMemberApi\pom.xml.
+2017-10-27 04:30:53,865 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:SmsAuditApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\SmsAuditApi\pom.xml.
+2017-10-27 04:30:57,353 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:SpringRestJsonWebService:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\SpringRestJsonWebService\pom.xml.
+2017-10-27 04:31:00,362 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:StormXmlProcessor:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\StormXmlProcessor\pom.xml.
+2017-10-27 04:31:56,840 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StormXmlProcessor/src/main/java
+2017-10-27 04:31:56,844 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StormXmlProcessor/src/main/resources
+2017-10-27 04:31:56,847 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StormXmlProcessor/src/test/java
+2017-10-27 04:31:56,849 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StormXmlProcessor/src/test/resources
+2017-10-27 04:32:05,114 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PackingSlipApi/src/main/java
+2017-10-27 04:32:05,123 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/main/resources
+2017-10-27 04:32:05,296 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/main/resources
+2017-10-27 04:32:05,428 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PackingSlipApi/src/test/java
+2017-10-27 04:32:05,430 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/test/resources
+2017-10-27 04:32:20,859 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:32:26,081 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestJsonWebService/src/main/java
+2017-10-27 04:32:26,148 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestJsonWebService/src/test/java
+2017-10-27 04:32:26,151 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestJsonWebService/src/test/resources
+2017-10-27 04:32:38,288 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:32:42,309 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaStormTopology/src/main/java
+2017-10-27 04:32:42,311 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /KafkaStormTopology/src/main/resources
+2017-10-27 04:32:42,312 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaStormTopology/src/test/java
+2017-10-27 04:32:50,092 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RewardsMemberApi/src/main/java
+2017-10-27 04:32:50,179 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RewardsMemberApi/src/test/java
+2017-10-27 04:32:50,183 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RewardsMemberApi/src/test/resources
+2017-10-27 04:33:03,458 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:33:07,438 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderHistoryAPI/src/main/java
+2017-10-27 04:33:07,458 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/main/resources
+2017-10-27 04:33:07,526 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/main/resources
+2017-10-27 04:33:07,586 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderHistoryAPI/src/test/java
+2017-10-27 04:33:07,591 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/test/resources
+2017-10-27 04:33:18,560 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 04:33:21,880 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ContactHistoryCorrectionService/src/main/java
+2017-10-27 04:33:21,884 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ContactHistoryCorrectionService/src/main/resources
+2017-10-27 04:33:21,954 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ContactHistoryCorrectionService/src/main/resources
+2017-10-27 04:33:21,956 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ContactHistoryCorrectionService/src/test/java
+2017-10-27 04:33:25,094 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreferenceCentreApi/src/main/java
+2017-10-27 04:33:25,096 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/main/resources
+2017-10-27 04:33:25,146 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/main/resources
+2017-10-27 04:33:25,270 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreferenceCentreApi/src/test/java
+2017-10-27 04:33:25,273 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/test/resources
+2017-10-27 04:33:32,784 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:33:41,990 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerLookupAPI/src/main/java
+2017-10-27 04:33:41,993 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/main/resources
+2017-10-27 04:33:42,053 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/main/resources
+2017-10-27 04:33:42,135 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerLookupAPI/src/test/java
+2017-10-27 04:33:42,140 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/test/resources
+2017-10-27 04:33:50,881 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 04:33:54,457 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderDetailApi/src/main/java
+2017-10-27 04:33:54,468 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/main/resources
+2017-10-27 04:33:54,573 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/main/resources
+2017-10-27 04:33:54,658 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderDetailApi/src/test/java
+2017-10-27 04:33:54,667 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/test/resources
+2017-10-27 04:34:02,511 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:34:06,130 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaXmlProducer/src/main/java
+2017-10-27 04:34:06,133 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /KafkaXmlProducer/src/main/resources
+2017-10-27 04:34:06,136 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaXmlProducer/src/test/java
+2017-10-27 04:34:08,319 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NomsOrderLookUpApi/src/main/java
+2017-10-27 04:34:08,334 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/main/resources
+2017-10-27 04:34:08,384 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/main/resources
+2017-10-27 04:34:08,461 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NomsOrderLookUpApi/src/test/java
+2017-10-27 04:34:08,463 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/test/resources
+2017-10-27 04:34:16,785 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:34:20,156 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SmsAuditApi/src/main/java
+2017-10-27 04:34:20,262 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SmsAuditApi/src/test/java
+2017-10-27 04:34:20,264 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SmsAuditApi/src/test/resources
+2017-10-27 04:34:28,203 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:34:31,533 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 13 project(s) in 312 sec
+2017-10-27 04:35:23,455 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:35:25,423 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:35:25,435 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 04:35:25,438 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 04:35:25,717 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:35:25,718 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\src\test\resources
+2017-10-27 04:35:51,902 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 04:35:54,090 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:35:54,093 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 04:35:54,099 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 04:35:54,435 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:35:54,439 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-10-27 04:36:14,618 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 04:36:14,626 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 04:36:14,857 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 04:36:14,869 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 04:36:18,176 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 04:36:18,184 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-27 04:36:18,246 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 04:36:18,256 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaXmlProducer\src\test\resources
+2017-10-27 04:36:24,812 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:36:27,126 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:36:27,131 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 04:36:27,138 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 04:36:27,212 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:36:27,215 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 04:36:34,856 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:36:36,979 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:36:36,981 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 04:36:36,984 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 04:36:37,198 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:36:37,200 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 04:36:45,169 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 04:36:47,033 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:36:47,037 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 04:36:47,040 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 04:36:47,274 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:36:47,277 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 04:36:57,733 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:37:00,051 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:00,054 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 04:37:00,057 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 04:37:00,326 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:00,330 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 04:37:07,937 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:37:10,462 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:10,470 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 04:37:10,474 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 04:37:10,709 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:10,711 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 04:37:17,572 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:37:19,903 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:19,906 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 04:37:19,907 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 04:37:19,910 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:19,918 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 04:37:27,217 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:37:29,516 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:29,518 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 04:37:29,520 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 04:37:29,524 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:29,527 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 04:37:37,543 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:37:39,640 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:39,641 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 04:37:39,642 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 04:37:39,645 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 04:37:39,648 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 04:37:46,787 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 04:37:49,103 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 04:37:49,111 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 04:37:49,279 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 04:37:49,288 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:17:15,285 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:17:35,717 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-27 05:18:20,536 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:ContactHistoryCorrectionService:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\pom.xml.
+2017-10-27 05:18:22,467 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:18:35,388 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CustomerLookupAPI:CustomerLookupAPI:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\CustomerLookupAPI\pom.xml.
+2017-10-27 05:18:38,564 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:18:41,516 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 05:18:53,617 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:KafkaXmlProducer:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaXmlProducer\pom.xml.
+2017-10-27 05:18:55,800 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:NomsOrderLookUpApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\NomsOrderLookUpApi\pom.xml.
+2017-10-27 05:19:02,026 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:OrderDetailApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\OrderDetailApi\pom.xml.
+2017-10-27 05:19:06,187 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: OrderHistoryAPI:OrderHistoryAPI:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\OrderHistoryAPI\pom.xml.
+2017-10-27 05:19:09,985 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:PackingSlipApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\PackingSlipApi\pom.xml.
+2017-10-27 05:19:13,902 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:PreferenceCentreApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\PreferenceCentreApi\pom.xml.
+2017-10-27 05:19:18,035 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:RewardsMemberApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\RewardsMemberApi\pom.xml.
+2017-10-27 05:19:23,118 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:SmsAuditApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\SmsAuditApi\pom.xml.
+2017-10-27 05:19:28,379 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:SpringRestJsonWebService:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\SpringRestJsonWebService\pom.xml.
+2017-10-27 05:19:33,173 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:StormXmlProcessor:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\StormXmlProcessor\pom.xml.
+2017-10-27 05:19:43,383 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:20:00,877 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:20:09,955 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:20:18,537 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:20:26,784 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:20:46,556 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:20:54,018 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:21:01,659 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:21:09,785 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:21:35,880 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ContactHistoryCorrectionService/src/main/java
+2017-10-27 05:21:35,883 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ContactHistoryCorrectionService/src/main/resources
+2017-10-27 05:21:35,887 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ContactHistoryCorrectionService/src/main/resources
+2017-10-27 05:21:35,889 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ContactHistoryCorrectionService/src/test/java
+2017-10-27 05:21:38,172 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerLookupAPI/src/main/java
+2017-10-27 05:21:38,174 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/main/resources
+2017-10-27 05:21:38,175 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/main/resources
+2017-10-27 05:21:38,191 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerLookupAPI/src/test/java
+2017-10-27 05:21:38,195 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/test/resources
+2017-10-27 05:21:44,459 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:21:47,665 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaStormTopology/src/main/java
+2017-10-27 05:21:47,673 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /KafkaStormTopology/src/main/resources
+2017-10-27 05:21:47,675 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaStormTopology/src/test/java
+2017-10-27 05:21:51,922 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaXmlProducer/src/main/java
+2017-10-27 05:21:51,923 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /KafkaXmlProducer/src/main/resources
+2017-10-27 05:21:51,927 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaXmlProducer/src/test/java
+2017-10-27 05:21:53,300 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NomsOrderLookUpApi/src/main/java
+2017-10-27 05:21:53,318 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/main/resources
+2017-10-27 05:21:53,322 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/main/resources
+2017-10-27 05:21:53,340 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NomsOrderLookUpApi/src/test/java
+2017-10-27 05:21:53,342 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/test/resources
+2017-10-27 05:22:00,275 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:22:03,354 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderDetailApi/src/main/java
+2017-10-27 05:22:03,364 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/main/resources
+2017-10-27 05:22:03,368 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/main/resources
+2017-10-27 05:22:03,389 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderDetailApi/src/test/java
+2017-10-27 05:22:03,391 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/test/resources
+2017-10-27 05:22:08,697 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:22:11,815 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderHistoryAPI/src/main/java
+2017-10-27 05:22:11,826 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/main/resources
+2017-10-27 05:22:11,828 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/main/resources
+2017-10-27 05:22:11,855 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderHistoryAPI/src/test/java
+2017-10-27 05:22:11,864 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/test/resources
+2017-10-27 05:22:17,423 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:22:23,795 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PackingSlipApi/src/main/java
+2017-10-27 05:22:23,805 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/main/resources
+2017-10-27 05:22:23,809 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/main/resources
+2017-10-27 05:22:23,828 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PackingSlipApi/src/test/java
+2017-10-27 05:22:23,842 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/test/resources
+2017-10-27 05:22:29,693 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:22:33,178 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreferenceCentreApi/src/main/java
+2017-10-27 05:22:33,180 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/main/resources
+2017-10-27 05:22:33,182 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/main/resources
+2017-10-27 05:22:33,195 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreferenceCentreApi/src/test/java
+2017-10-27 05:22:33,197 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/test/resources
+2017-10-27 05:22:38,293 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:22:42,018 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RewardsMemberApi/src/main/java
+2017-10-27 05:22:42,033 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RewardsMemberApi/src/test/java
+2017-10-27 05:22:42,035 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RewardsMemberApi/src/test/resources
+2017-10-27 05:22:46,977 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:22:50,208 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SmsAuditApi/src/main/java
+2017-10-27 05:22:50,297 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SmsAuditApi/src/test/java
+2017-10-27 05:22:50,301 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SmsAuditApi/src/test/resources
+2017-10-27 05:22:55,344 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:22:58,350 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestJsonWebService/src/main/java
+2017-10-27 05:22:58,380 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestJsonWebService/src/test/java
+2017-10-27 05:22:58,384 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestJsonWebService/src/test/resources
+2017-10-27 05:23:04,452 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:23:07,464 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StormXmlProcessor/src/main/java
+2017-10-27 05:23:07,471 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StormXmlProcessor/src/main/resources
+2017-10-27 05:23:07,486 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StormXmlProcessor/src/test/java
+2017-10-27 05:23:07,489 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StormXmlProcessor/src/test/resources
+2017-10-27 05:23:20,988 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CustomerLookupAPI
+2017-10-27 05:23:22,828 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NomsOrderLookUpApi
+2017-10-27 05:23:24,902 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderDetailApi
+2017-10-27 05:23:26,468 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderHistoryAPI
+2017-10-27 05:23:27,987 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PackingSlipApi
+2017-10-27 05:23:29,662 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PreferenceCentreApi
+2017-10-27 05:23:30,846 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RewardsMemberApi
+2017-10-27 05:23:32,285 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SmsAuditApi
+2017-10-27 05:23:33,408 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRestJsonWebService
+2017-10-27 05:23:34,809 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 359 sec
+2017-10-27 05:24:03,497 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:24:05,441 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:24:05,446 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:24:05,450 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:24:05,686 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:24:05,689 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\src\test\resources
+2017-10-27 05:24:25,627 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:24:28,007 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:24:28,014 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:24:28,023 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:24:28,350 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:24:28,358 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-10-27 05:24:28,522 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CustomerLookupAPI
+2017-10-27 05:24:28,526 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CustomerLookupAPI
+2017-10-27 05:24:28,540 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:24:46,018 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:24:46,028 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 05:24:46,313 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:24:46,324 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 05:24:49,276 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:24:49,289 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-27 05:24:49,341 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:24:49,348 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaXmlProducer\src\test\resources
+2017-10-27 05:25:06,522 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:25:08,780 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:08,787 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:25:08,790 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 05:25:08,854 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:08,858 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 05:25:08,916 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NomsOrderLookUpApi
+2017-10-27 05:25:08,917 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NomsOrderLookUpApi
+2017-10-27 05:25:08,927 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:17,107 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:25:19,061 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:19,065 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:25:19,068 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:25:19,293 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:19,296 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:25:19,536 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderDetailApi
+2017-10-27 05:25:19,538 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderDetailApi
+2017-10-27 05:25:19,548 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:29,997 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:25:32,432 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:32,436 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:25:32,441 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:25:32,628 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:32,632 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:25:32,768 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderHistoryAPI
+2017-10-27 05:25:32,770 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderHistoryAPI
+2017-10-27 05:25:32,779 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:54,182 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:25:56,338 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:56,342 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:25:56,347 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:25:56,523 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:25:56,528 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:25:56,724 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PackingSlipApi
+2017-10-27 05:25:56,727 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PackingSlipApi
+2017-10-27 05:25:56,736 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:03,876 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:26:06,442 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:06,449 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:26:06,453 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:26:06,619 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:06,623 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:26:06,794 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PreferenceCentreApi
+2017-10-27 05:26:06,794 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PreferenceCentreApi
+2017-10-27 05:26:06,809 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:13,777 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:26:16,446 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:16,450 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 05:26:16,453 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 05:26:16,454 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:16,460 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:26:16,658 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RewardsMemberApi
+2017-10-27 05:26:16,660 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RewardsMemberApi
+2017-10-27 05:26:16,681 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:25,088 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:26:27,578 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:27,580 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 05:26:27,583 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 05:26:27,585 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:27,588 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:26:27,712 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SmsAuditApi
+2017-10-27 05:26:27,712 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SmsAuditApi
+2017-10-27 05:26:27,726 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:36,429 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:26:38,806 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:38,807 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 05:26:38,809 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 05:26:38,813 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:38,816 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:26:39,026 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestJsonWebService
+2017-10-27 05:26:39,026 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestJsonWebService
+2017-10-27 05:26:39,040 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:26:47,164 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:26:49,476 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:26:49,483 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:26:49,667 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:26:49,680 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:27:47,698 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-27 05:28:23,149 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:ContactHistoryCorrectionService:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\pom.xml.
+2017-10-27 05:28:25,477 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:28:38,202 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CustomerLookupAPI:CustomerLookupAPI:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\CustomerLookupAPI\pom.xml.
+2017-10-27 05:28:41,761 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:28:44,762 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 05:28:58,100 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:KafkaXmlProducer:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaXmlProducer\pom.xml.
+2017-10-27 05:29:00,573 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:NomsOrderLookUpApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\NomsOrderLookUpApi\pom.xml.
+2017-10-27 05:29:13,265 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:OrderDetailApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\OrderDetailApi\pom.xml.
+2017-10-27 05:29:16,874 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: OrderHistoryAPI:OrderHistoryAPI:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\OrderHistoryAPI\pom.xml.
+2017-10-27 05:29:20,431 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:PackingSlipApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\PackingSlipApi\pom.xml.
+2017-10-27 05:29:24,198 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:PreferenceCentreApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\PreferenceCentreApi\pom.xml.
+2017-10-27 05:29:28,256 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:RewardsMemberApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\RewardsMemberApi\pom.xml.
+2017-10-27 05:29:31,919 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:SmsAuditApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\SmsAuditApi\pom.xml.
+2017-10-27 05:29:36,196 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:SpringRestJsonWebService:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\SpringRestJsonWebService\pom.xml.
+2017-10-27 05:29:40,803 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:StormXmlProcessor:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\StormXmlProcessor\pom.xml.
+2017-10-27 05:29:51,667 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:30:08,497 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:30:16,563 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:30:25,633 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:30:34,591 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:30:55,785 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:31:03,869 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:31:11,548 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:31:20,164 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:31:48,655 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ContactHistoryCorrectionService/src/main/java
+2017-10-27 05:31:48,680 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ContactHistoryCorrectionService/src/main/resources
+2017-10-27 05:31:48,713 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ContactHistoryCorrectionService/src/main/resources
+2017-10-27 05:31:48,714 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ContactHistoryCorrectionService/src/test/java
+2017-10-27 05:31:51,175 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerLookupAPI/src/main/java
+2017-10-27 05:31:51,177 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/main/resources
+2017-10-27 05:31:51,180 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/main/resources
+2017-10-27 05:31:51,199 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerLookupAPI/src/test/java
+2017-10-27 05:31:51,203 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerLookupAPI/src/test/resources
+2017-10-27 05:31:57,054 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:32:00,332 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaStormTopology/src/main/java
+2017-10-27 05:32:00,335 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /KafkaStormTopology/src/main/resources
+2017-10-27 05:32:00,337 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaStormTopology/src/test/java
+2017-10-27 05:32:04,242 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaXmlProducer/src/main/java
+2017-10-27 05:32:04,245 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /KafkaXmlProducer/src/main/resources
+2017-10-27 05:32:04,247 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KafkaXmlProducer/src/test/java
+2017-10-27 05:32:05,226 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NomsOrderLookUpApi/src/main/java
+2017-10-27 05:32:05,228 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/main/resources
+2017-10-27 05:32:05,231 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/main/resources
+2017-10-27 05:32:05,247 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NomsOrderLookUpApi/src/test/java
+2017-10-27 05:32:05,250 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NomsOrderLookUpApi/src/test/resources
+2017-10-27 05:32:10,633 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:32:13,877 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderDetailApi/src/main/java
+2017-10-27 05:32:13,893 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/main/resources
+2017-10-27 05:32:13,896 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/main/resources
+2017-10-27 05:32:13,940 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderDetailApi/src/test/java
+2017-10-27 05:32:13,947 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderDetailApi/src/test/resources
+2017-10-27 05:32:19,515 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:32:22,890 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderHistoryAPI/src/main/java
+2017-10-27 05:32:22,901 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/main/resources
+2017-10-27 05:32:22,906 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/main/resources
+2017-10-27 05:32:22,931 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderHistoryAPI/src/test/java
+2017-10-27 05:32:22,940 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderHistoryAPI/src/test/resources
+2017-10-27 05:32:28,955 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:32:31,729 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PackingSlipApi/src/main/java
+2017-10-27 05:32:31,734 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/main/resources
+2017-10-27 05:32:31,738 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/main/resources
+2017-10-27 05:32:31,767 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PackingSlipApi/src/test/java
+2017-10-27 05:32:31,793 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PackingSlipApi/src/test/resources
+2017-10-27 05:32:37,467 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:32:40,828 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreferenceCentreApi/src/main/java
+2017-10-27 05:32:40,830 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/main/resources
+2017-10-27 05:32:40,833 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/main/resources
+2017-10-27 05:32:40,866 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreferenceCentreApi/src/test/java
+2017-10-27 05:32:40,869 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PreferenceCentreApi/src/test/resources
+2017-10-27 05:32:46,632 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:32:56,145 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RewardsMemberApi/src/main/java
+2017-10-27 05:32:56,162 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RewardsMemberApi/src/test/java
+2017-10-27 05:32:56,167 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RewardsMemberApi/src/test/resources
+2017-10-27 05:33:01,351 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:33:04,491 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SmsAuditApi/src/main/java
+2017-10-27 05:33:04,530 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SmsAuditApi/src/test/java
+2017-10-27 05:33:04,533 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SmsAuditApi/src/test/resources
+2017-10-27 05:33:09,391 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:33:12,802 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestJsonWebService/src/main/java
+2017-10-27 05:33:12,821 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestJsonWebService/src/test/java
+2017-10-27 05:33:12,831 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestJsonWebService/src/test/resources
+2017-10-27 05:33:19,734 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:33:23,201 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StormXmlProcessor/src/main/java
+2017-10-27 05:33:23,206 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StormXmlProcessor/src/main/resources
+2017-10-27 05:33:23,219 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StormXmlProcessor/src/test/java
+2017-10-27 05:33:23,221 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StormXmlProcessor/src/test/resources
+2017-10-27 05:33:37,640 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CustomerLookupAPI
+2017-10-27 05:33:39,987 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NomsOrderLookUpApi
+2017-10-27 05:33:42,632 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderDetailApi
+2017-10-27 05:33:45,815 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderHistoryAPI
+2017-10-27 05:33:47,748 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PackingSlipApi
+2017-10-27 05:33:49,664 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PreferenceCentreApi
+2017-10-27 05:33:51,024 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RewardsMemberApi
+2017-10-27 05:33:52,437 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SmsAuditApi
+2017-10-27 05:33:53,945 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRestJsonWebService
+2017-10-27 05:33:56,055 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 368 sec
+2017-10-27 05:34:29,916 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:34:32,057 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:34:32,062 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:34:32,067 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:34:32,340 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:34:32,342 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\src\test\resources
+2017-10-27 05:34:51,533 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:34:53,965 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:34:53,968 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:34:53,971 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:34:54,131 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:34:54,134 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-10-27 05:34:54,234 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CustomerLookupAPI
+2017-10-27 05:34:54,234 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CustomerLookupAPI
+2017-10-27 05:34:54,247 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:13,400 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:35:13,497 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 05:35:13,809 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:35:13,818 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 05:35:16,749 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:35:16,769 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-27 05:35:16,902 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:35:16,911 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaXmlProducer\src\test\resources
+2017-10-27 05:35:24,824 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:35:27,168 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:27,173 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:35:27,178 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 05:35:27,237 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:27,242 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 05:35:27,305 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NomsOrderLookUpApi
+2017-10-27 05:35:27,307 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NomsOrderLookUpApi
+2017-10-27 05:35:27,316 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:36,339 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:35:38,845 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:38,850 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:35:38,853 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:35:39,082 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:39,087 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:35:39,277 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderDetailApi
+2017-10-27 05:35:39,277 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderDetailApi
+2017-10-27 05:35:39,288 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:52,264 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:35:54,742 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:54,747 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:35:54,751 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:35:55,096 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:35:55,101 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:35:55,337 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderHistoryAPI
+2017-10-27 05:35:55,340 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderHistoryAPI
+2017-10-27 05:35:55,350 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:22,800 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:36:25,290 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:25,293 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:36:25,295 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:36:25,498 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:25,503 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:36:25,685 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PackingSlipApi
+2017-10-27 05:36:25,686 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PackingSlipApi
+2017-10-27 05:36:25,700 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:34,896 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:36:37,472 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:37,477 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:36:37,480 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:36:37,629 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:37,633 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:36:37,807 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PreferenceCentreApi
+2017-10-27 05:36:37,809 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PreferenceCentreApi
+2017-10-27 05:36:37,817 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:44,558 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:36:47,178 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:47,180 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 05:36:47,182 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 05:36:47,185 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:47,188 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:36:47,474 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RewardsMemberApi
+2017-10-27 05:36:47,475 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RewardsMemberApi
+2017-10-27 05:36:47,484 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:56,780 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:36:59,229 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:59,230 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 05:36:59,231 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 05:36:59,232 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:36:59,237 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:36:59,385 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SmsAuditApi
+2017-10-27 05:36:59,387 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SmsAuditApi
+2017-10-27 05:36:59,396 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:37:08,563 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:37:10,939 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:37:10,940 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 05:37:10,941 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 05:37:10,944 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:37:10,947 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:37:11,345 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestJsonWebService
+2017-10-27 05:37:11,345 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestJsonWebService
+2017-10-27 05:37:11,359 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:37:19,308 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:37:21,903 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:37:21,914 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:37:22,111 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:37:22,124 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:37:44,205 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:37:51,485 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:37:53,875 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CustomerLookupAPI
+2017-10-27 05:38:15,642 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:38:18,966 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NomsOrderLookUpApi
+2017-10-27 05:38:26,056 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:38:28,847 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderDetailApi
+2017-10-27 05:38:35,149 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:38:37,398 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderHistoryAPI
+2017-10-27 05:38:42,462 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:38:44,576 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PackingSlipApi
+2017-10-27 05:38:49,648 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:38:52,398 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PreferenceCentreApi
+2017-10-27 05:38:57,222 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:38:59,455 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RewardsMemberApi
+2017-10-27 05:39:04,927 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:39:07,985 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SmsAuditApi
+2017-10-27 05:39:13,833 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:39:16,372 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRestJsonWebService
+2017-10-27 05:39:25,366 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:39:38,925 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:39:47,342 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:39:47,351 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:39:47,356 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:39:47,742 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:39:47,742 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\src\test\resources
+2017-10-27 05:40:04,335 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:40:06,816 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:40:06,819 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:40:06,822 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:40:07,029 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:40:07,034 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-10-27 05:40:07,167 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CustomerLookupAPI
+2017-10-27 05:40:07,167 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CustomerLookupAPI
+2017-10-27 05:40:07,178 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:40:35,319 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:40:35,335 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 05:40:35,763 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:40:35,771 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 05:40:38,505 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:40:38,522 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-27 05:40:38,571 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:40:38,578 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaXmlProducer\src\test\resources
+2017-10-27 05:40:46,931 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:40:49,695 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:40:49,699 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:40:49,703 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 05:40:49,792 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:40:49,797 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 05:40:49,872 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NomsOrderLookUpApi
+2017-10-27 05:40:49,875 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NomsOrderLookUpApi
+2017-10-27 05:40:49,886 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:09,441 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:41:12,034 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:12,040 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:41:12,046 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:41:12,322 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:12,325 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:41:12,579 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderDetailApi
+2017-10-27 05:41:12,580 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderDetailApi
+2017-10-27 05:41:12,608 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:25,288 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:41:27,407 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:27,411 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:41:27,418 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:41:27,686 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:27,696 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:41:27,904 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderHistoryAPI
+2017-10-27 05:41:27,906 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderHistoryAPI
+2017-10-27 05:41:27,917 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:46,099 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:41:48,541 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:48,543 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:41:48,547 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 05:41:48,754 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:48,759 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:41:48,976 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PackingSlipApi
+2017-10-27 05:41:48,979 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PackingSlipApi
+2017-10-27 05:41:48,991 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:56,684 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:41:59,275 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:59,280 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 05:41:59,284 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:41:59,454 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:41:59,458 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:41:59,624 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PreferenceCentreApi
+2017-10-27 05:41:59,626 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PreferenceCentreApi
+2017-10-27 05:41:59,636 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:05,994 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:42:08,153 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:08,158 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 05:42:08,167 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 05:42:08,174 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:08,186 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:42:08,405 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RewardsMemberApi
+2017-10-27 05:42:08,406 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RewardsMemberApi
+2017-10-27 05:42:08,426 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:15,306 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:42:17,304 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:17,305 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 05:42:17,306 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 05:42:17,308 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:17,313 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:42:17,534 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SmsAuditApi
+2017-10-27 05:42:17,536 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SmsAuditApi
+2017-10-27 05:42:17,547 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:26,486 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:42:28,683 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:28,684 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 05:42:28,685 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 05:42:28,688 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:28,692 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:42:28,838 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestJsonWebService
+2017-10-27 05:42:28,838 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestJsonWebService
+2017-10-27 05:42:28,886 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 05:42:37,543 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:42:40,120 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:42:40,127 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 05:42:40,323 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 05:42:40,332 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 05:42:57,675 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:44:47,973 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 05:47:32,863 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:51:48,938 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 05:54:37,136 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 06:13:10,785 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:16:57,649 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:29:06,957 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:35:01,139 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\RewardsMemberApi
+2017-10-27 06:35:01,142 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-10-27 06:35:23,136 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:35:23,137 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 06:35:23,142 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 06:35:23,147 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:35:23,191 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 06:35:23,478 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RewardsMemberApi
+2017-10-27 06:35:23,479 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RewardsMemberApi
+2017-10-27 06:35:23,490 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:35:46,865 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-27 06:35:49,975 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\RewardsMemberApi
+2017-10-27 06:35:49,975 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-27 06:36:05,572 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-27 06:36:11,779 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\RewardsMemberApi
+2017-10-27 06:36:11,781 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-27 06:36:21,276 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:36:28,835 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-27 06:36:31,028 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\ContactHistoryCorrectionService
+2017-10-27 06:36:31,030 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-27 06:37:20,882 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-27 06:37:42,182 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.staples.custexo:RewardsMemberApi:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\RewardsMemberApi\pom.xml.
+2017-10-27 06:37:46,566 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:37:58,786 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:38:19,593 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RewardsMemberApi/src/main/java
+2017-10-27 06:38:19,598 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RewardsMemberApi/src/test/java
+2017-10-27 06:38:19,602 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RewardsMemberApi/src/test/resources
+2017-10-27 06:38:25,550 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:38:29,250 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:38:36,755 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RewardsMemberApi
+2017-10-27 06:38:36,926 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 76 sec
+2017-10-27 06:38:59,279 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:39:02,300 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:39:02,303 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 06:39:02,309 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 06:39:02,312 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:39:02,329 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 06:39:02,550 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RewardsMemberApi
+2017-10-27 06:39:02,553 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RewardsMemberApi
+2017-10-27 06:39:02,563 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:39:31,811 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:39:41,518 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 06:39:44,151 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CustomerLookupAPI
+2017-10-27 06:40:09,756 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:40:13,103 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NomsOrderLookUpApi
+2017-10-27 06:40:20,714 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:40:23,389 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderDetailApi
+2017-10-27 06:40:30,228 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 06:40:32,759 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderHistoryAPI
+2017-10-27 06:40:38,847 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:40:41,897 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PackingSlipApi
+2017-10-27 06:40:48,482 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:40:51,545 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PreferenceCentreApi
+2017-10-27 06:40:57,313 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:41:00,035 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RewardsMemberApi
+2017-10-27 06:41:06,947 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:41:09,638 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SmsAuditApi
+2017-10-27 06:41:16,640 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:41:19,320 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRestJsonWebService
+2017-10-27 06:41:27,322 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:41:41,556 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:41:51,708 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:41:51,713 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:41:51,720 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 06:41:51,992 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:41:51,994 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\src\test\resources
+2017-10-27 06:42:24,043 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 06:42:27,007 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:42:27,016 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:42:27,019 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 06:42:27,270 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:42:27,275 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-10-27 06:42:27,430 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CustomerLookupAPI
+2017-10-27 06:42:27,430 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CustomerLookupAPI
+2017-10-27 06:42:27,444 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:43:12,678 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:43:12,689 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 06:43:12,995 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:43:13,003 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 06:43:16,939 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:43:16,948 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-27 06:43:17,021 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:43:17,031 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaXmlProducer\src\test\resources
+2017-10-27 06:43:39,597 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:43:42,548 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:43:42,552 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:43:42,566 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 06:43:42,713 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:43:42,717 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 06:43:42,854 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NomsOrderLookUpApi
+2017-10-27 06:43:42,857 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NomsOrderLookUpApi
+2017-10-27 06:43:42,873 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:44:13,161 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 06:44:30,216 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:44:30,237 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:44:30,241 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:44:30,258 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 06:44:44,886 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 06:45:08,460 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:45:08,507 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 06:45:08,807 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:45:08,815 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 06:45:37,288 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:45:40,309 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:45:40,314 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:45:40,321 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 06:45:40,649 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:45:40,654 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 06:45:40,994 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderDetailApi
+2017-10-27 06:45:40,996 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderDetailApi
+2017-10-27 06:45:41,010 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:46:08,759 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 06:46:11,466 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:46:11,470 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:46:11,475 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 06:46:11,759 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:46:11,766 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 06:46:11,959 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderHistoryAPI
+2017-10-27 06:46:11,962 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderHistoryAPI
+2017-10-27 06:46:11,972 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:46:36,113 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:46:38,657 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:46:38,663 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:46:38,667 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 06:46:38,930 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:46:38,933 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 06:46:39,145 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PackingSlipApi
+2017-10-27 06:46:39,145 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PackingSlipApi
+2017-10-27 06:46:39,157 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:47:13,406 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:47:16,688 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:47:16,692 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:47:16,702 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 06:47:16,929 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:47:16,940 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 06:47:17,119 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PreferenceCentreApi
+2017-10-27 06:47:17,121 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PreferenceCentreApi
+2017-10-27 06:47:17,131 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:47:51,278 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:47:56,215 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:47:56,216 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 06:47:56,218 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 06:47:56,221 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:47:56,226 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 06:47:56,444 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RewardsMemberApi
+2017-10-27 06:47:56,444 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RewardsMemberApi
+2017-10-27 06:47:56,454 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:48:29,781 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:48:32,108 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:48:32,113 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 06:48:32,117 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 06:48:32,126 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:48:32,131 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 06:48:32,428 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SmsAuditApi
+2017-10-27 06:48:32,430 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SmsAuditApi
+2017-10-27 06:48:32,440 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:49:06,577 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:49:09,638 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:49:09,641 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 06:49:09,648 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 06:49:09,652 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:49:09,660 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 06:49:09,845 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestJsonWebService
+2017-10-27 06:49:09,845 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestJsonWebService
+2017-10-27 06:49:09,855 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 06:49:30,996 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 06:49:33,551 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:49:33,560 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 06:49:33,747 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:49:33,763 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 06:49:42,064 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 06:49:42,064 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-10-27 06:58:08,490 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 06:58:30,087 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:58:30,113 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 06:58:30,117 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:58:30,124 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 06:58:30,757 [Worker-63] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/KafkaStormTopology/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:804) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:999) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4724) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3522) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2315) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2193) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3932) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4721) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:997) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2017-10-27 06:58:30,937 [Worker-63] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'groupId' (position: START_TAG seen ...</dependency>\r\n\t\t\r\n\t\t\t<groupId>... @119:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'groupId' (position: START_TAG seen ...</dependency>\r\n\t\t\r\n\t\t\t<groupId>... @119:13) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:152) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2201) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2017-10-27 06:58:46,883 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 06:59:08,465 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:59:08,554 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 06:59:09,265 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 06:59:09,275 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 06:59:46,637 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-27 06:59:50,956 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 06:59:50,958 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-27 07:00:39,030 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 07:00:56,013 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-27 07:00:59,898 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 07:00:59,929 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 07:00:59,940 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 07:00:59,950 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 07:01:00,613 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:01:00,617 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-27 07:02:30,075 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-27 07:02:59,141 [Worker-75] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:02:59,141 [Worker-75] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B goal
+2017-10-27 07:03:27,901 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-27 07:03:27,932 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:03:27,934 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B goal
+2017-10-27 07:03:54,757 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-27 07:03:54,819 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:03:54,821 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B goal
+2017-10-27 07:04:14,104 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:04:14,104 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B generate-sources
+2017-10-27 07:04:24,521 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-27 07:04:24,586 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:04:24,588 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B goal
+2017-10-27 07:05:13,662 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-27 07:05:13,693 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:05:13,695 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B goal
+2017-10-27 07:06:43,400 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 07:07:03,253 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 07:07:03,295 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 07:07:03,298 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 07:07:03,313 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 07:08:08,241 [Worker-81] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:08:08,243 [Worker-81] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-10-27 07:59:21,441 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 07:59:21,456 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-27 08:00:43,836 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:07:18,146 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-27 08:07:20,677 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 08:07:20,679 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-27 08:07:29,851 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 08:07:29,853 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-10-27 08:07:45,411 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:07:45,466 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 08:07:45,800 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:07:45,807 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 08:07:47,726 [Worker-92] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 08:07:47,727 [Worker-92] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-10-27 08:13:03,271 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-27 08:13:12,906 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 08:13:12,909 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B src
+2017-10-27 08:15:09,307 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 08:15:37,129 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\workspaces\custexo-api-application\KafkaStormTopology
+2017-10-27 08:15:37,142 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-10-27 08:18:16,261 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:18:16,302 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 08:18:16,618 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:18:16,634 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 08:18:35,813 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:18:39,807 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CustomerLookupAPI
+2017-10-27 08:18:48,903 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:18:51,207 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NomsOrderLookUpApi
+2017-10-27 08:18:57,137 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:18:59,256 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderDetailApi
+2017-10-27 08:19:06,035 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 08:19:08,573 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OrderHistoryAPI
+2017-10-27 08:19:14,783 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:19:17,323 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PackingSlipApi
+2017-10-27 08:19:23,043 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:19:25,917 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PreferenceCentreApi
+2017-10-27 08:19:31,608 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:19:33,987 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RewardsMemberApi
+2017-10-27 08:19:39,497 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:19:41,704 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SmsAuditApi
+2017-10-27 08:19:49,186 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:19:52,794 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRestJsonWebService
+2017-10-27 08:20:06,229 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:20:23,987 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:20:35,281 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:20:35,287 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 08:20:35,292 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 08:20:35,579 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:20:35,580 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\ContactHistoryCorrectionService\src\test\resources
+2017-10-27 08:21:11,681 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 08:21:14,387 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:21:14,394 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 08:21:14,400 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 08:21:14,699 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:21:14,703 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-10-27 08:21:14,897 [Worker-104] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CustomerLookupAPI
+2017-10-27 08:21:14,898 [Worker-104] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CustomerLookupAPI
+2017-10-27 08:21:14,922 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:22:03,894 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:22:03,906 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 08:22:04,220 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:22:04,231 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 08:22:09,041 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:22:09,055 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-27 08:22:09,151 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:22:09,159 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaXmlProducer\src\test\resources
+2017-10-27 08:22:35,574 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:22:38,422 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:22:38,427 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 08:22:38,439 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 08:22:38,628 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:22:38,633 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-27 08:22:38,733 [Worker-101] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NomsOrderLookUpApi
+2017-10-27 08:22:38,736 [Worker-101] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NomsOrderLookUpApi
+2017-10-27 08:22:38,748 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:23:27,768 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:23:30,257 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:23:30,260 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 08:23:30,265 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 08:23:30,583 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:23:30,589 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 08:23:30,981 [Worker-106] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderDetailApi
+2017-10-27 08:23:30,982 [Worker-106] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderDetailApi
+2017-10-27 08:23:31,010 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:23:53,056 [Worker-96] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'repositories' (position: START_TAG seen ...</dependency>\r\n\t\t<repositories>... @118:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'repositories' (position: START_TAG seen ...</dependency>\r\n\t\t<repositories>... @118:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:152) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2201) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2017-10-27 08:24:03,391 [Worker-100] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'repositories' (position: START_TAG seen ...</dependency>\r\n\t\t<repositories>... @118:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'repositories' (position: START_TAG seen ...</dependency>\r\n\t\t<repositories>... @118:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:152) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2201) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2017-10-27 08:24:09,579 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2017-10-27 08:24:12,673 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:24:12,683 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 08:24:12,695 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 08:24:13,153 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:24:13,159 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 08:24:13,756 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OrderHistoryAPI
+2017-10-27 08:24:13,758 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OrderHistoryAPI
+2017-10-27 08:24:13,769 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:24:52,333 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:24:54,987 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:24:54,990 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 08:24:54,993 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-10-27 08:24:55,282 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:24:55,286 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 08:24:55,468 [Worker-107] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PackingSlipApi
+2017-10-27 08:24:55,469 [Worker-107] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PackingSlipApi
+2017-10-27 08:24:55,488 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:25:31,902 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:25:35,000 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:25:35,006 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 08:25:35,014 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 08:25:35,241 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:25:35,247 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 08:25:35,526 [Worker-107] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PreferenceCentreApi
+2017-10-27 08:25:35,528 [Worker-107] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PreferenceCentreApi
+2017-10-27 08:25:35,537 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:26:06,614 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:26:09,004 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:26:09,008 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 08:26:09,012 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\RewardsMemberApi\src\main\resources
+2017-10-27 08:26:09,015 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:26:09,019 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 08:26:09,353 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RewardsMemberApi
+2017-10-27 08:26:09,354 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RewardsMemberApi
+2017-10-27 08:26:09,363 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:26:29,513 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:26:31,813 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:26:31,814 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 08:26:31,820 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SmsAuditApi\src\main\resources
+2017-10-27 08:26:31,824 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:26:31,829 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 08:26:32,071 [Worker-107] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SmsAuditApi
+2017-10-27 08:26:32,072 [Worker-107] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SmsAuditApi
+2017-10-27 08:26:32,101 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:27:06,736 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:27:09,538 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:27:09,539 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 08:27:09,540 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\SpringRestJsonWebService\src\main\resources
+2017-10-27 08:27:09,543 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:27:09,548 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 08:27:09,725 [Worker-104] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestJsonWebService
+2017-10-27 08:27:09,726 [Worker-104] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestJsonWebService
+2017-10-27 08:27:09,752 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-27 08:27:32,308 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2017-10-27 08:27:35,255 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:27:35,264 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-27 08:27:35,525 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:27:35,540 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-27 08:37:58,669 [Worker-110] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tcs.kafkastorm:KafkaStormTopology:0.0.1-SNAPSHOT @ H:\workspaces\custexo-api-application\KafkaStormTopology\pom.xml.
+2017-10-27 08:38:27,841 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:38:27,892 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-27 08:38:27,897 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:38:27,904 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources
+2017-10-27 08:38:58,168 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:38:58,218 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-27 08:38:58,695 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-27 08:38:58,705 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\workspaces\custexo-api-application\KafkaStormTopology\src\test\resources

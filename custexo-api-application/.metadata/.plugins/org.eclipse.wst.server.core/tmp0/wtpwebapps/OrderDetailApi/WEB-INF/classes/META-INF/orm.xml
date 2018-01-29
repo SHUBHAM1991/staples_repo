@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <entity-mappings xmlns="http://java.sun.com/xml/ns/persistence/orm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     version="1.0">
+     
+     <persistence-unit-metadata>
+ 		<persistence-unit-defaults>
+   			<schema>CEX01_OWN</schema>
+  		</persistence-unit-defaults>
+ 	</persistence-unit-metadata>
+     
+
+	<sql-result-set-mapping name="TotalShipmentMappingXML">
+   		<constructor-result target-class="com.staples.custexo.bean.TotalShipmentBean">
+	        <column name="shipmentKey" class="java.lang.String"/>
+	        <column name="shipToKey"  class="java.lang.String"/>
+	        <column name="shipmentId" class="java.lang.String" />
+	        <column name="shipmentNo" class="java.lang.String"/>
+	        <column name="estimatedDeliveryDate" class="java.util.Date"/>
+	        <column name="actualDeliveryDate" class="java.util.Date"/>
+	        <column name="shipDate" class="java.util.Date"/>
+	        <column name="shipStatusCode" class="java.lang.String"/>
+	        <column name="shipStatusDesc" class="java.lang.String"/>
+	        <column name="shipCarrier" class="java.lang.String"/>
+	        <column name="poOrderNo" class="java.lang.String"/>
+	        <column name="orderLineKey" class="java.lang.String"/>
+	        <column name="shipmentLineKey" class="java.lang.String"/>
+	      	<column name="shipProductName" class="java.lang.String"/>
+	        <column name="shipProductDesc" class="java.lang.String"/>
+	        <column name="shipProductSKU"  class="java.lang.String"/>
+	        <column name="shipProductUOM" class="java.lang.String"/>  
+	        <column name="shipQty" class ="java.lang.Double"/>
+	        <column name="shipOriginalQty" class ="java.lang.Double"/>
+	        <column name="shipShortageQty" class ="java.lang.Double"/>
+       </constructor-result>
+    </sql-result-set-mapping>
+
+	<sql-result-set-mapping name="TotalShipmentToXML">
+    	<constructor-result target-class="com.staples.custexo.bean.ShipToBean">
+    		<column name = "shipToKey" class="java.lang.String"></column>
+    		<column name = "orderLineKey" class="java.lang.String"></column>
+    		<column name = "orderLineType" class="java.lang.String"></column>
+    		<column name = "shipToCompany" class="java.lang.String"></column>
+    		<column name = "shipToFirstName" class="java.lang.String"></column>
+    		<column name = "shipToLastName" class="java.lang.String"></column>
+    		<column name = "shipToAddressLine1" class="java.lang.String"></column>
+    		<column name = "shipToAddressLine2" class="java.lang.String"></column>
+    		<column name = "shipToAddressLine3" class="java.lang.String"></column>
+    		<column name = "shipToCity" class="java.lang.String"></column>
+    		<column name = "shipToState" class="java.lang.String"></column>
+    		<column name = "shipToZipCode" class="java.lang.String"></column>
+    	</constructor-result>
+  	</sql-result-set-mapping>  
+
+</entity-mappings>

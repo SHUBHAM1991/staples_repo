@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri Oct 27 08:01:26 EDT 2017
+org.eclipse.jst.j2ee.server\:/binary\:H\:\\Grosh001\\.m2\\repository\\org\\springframework\\spring-web\\4.3.4.RELEASE\\spring-web-4.3.4.RELEASE.jar=WEB-INF/lib/spring-web-4.3.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:H\:\\Grosh001\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\7.0.59\\tomcat-embed-websocket-7.0.59.jar=WEB-INF/lib/tomcat-embed-websocket-7.0.59.jar
+org.eclipse.jst.j2ee.server\:/binary\:H\:\\Grosh001\\.m2\\repository\\org\\springframework\\spring-web\\4.0.9.RELEASE\\spring-web-4.0.9.RELEASE.jar=WEB-INF/lib/spring-web-4.0.9.RELEASE.jar
