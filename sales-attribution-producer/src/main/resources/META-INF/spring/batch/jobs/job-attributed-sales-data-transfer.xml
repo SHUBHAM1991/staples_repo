@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:batch="http://www.springframework.org/schema/batch" xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/batch http://www.springframework.org/schema/batch/spring-batch-2.2.xsd http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.2.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.2.xsd">
+
+	<import resource="../config/applicationContext.xml" />
+	<import resource="../config/database.xml" />
+
+	<job id="attributedSalesDataTransferJob" xmlns="http://www.springframework.org/schema/batch">
+		<step id="Step0_ExecuteSoredProd" next="Step1_splitRetailAndOnline">
+			<tasklet ref="storedProcedureCall" />
+		</step>
+
+		<split id="Step1_splitRetailAndOnline">
+			<flow>
+				<step id="Step1_FetchAttributedSalesInfo_Retail">
+					<tasklet task-executor="taskExecutor" throttle-limit="20">
+						<chunk reader="cursorAttributedSalesInfoItemReaderForRetail"
+							processor="attributedSalesInfoJsonProcessor" writer="attributedSalesInfoItemWriter"
+							commit-interval="500" />
+					</tasklet>
+				</step>
+			</flow>
+			<flow>
+				<step id="Step1_FetchAttributedSalesInfo_Online">
+					<tasklet task-executor="taskExecutor" throttle-limit="5">
+						<chunk reader="cursorAttributedSalesInfoItemReaderForOnline"
+							processor="attributedSalesInfoJsonProcessor" writer="attributedSalesInfoItemWriter"
+							commit-interval="500" />
+					</tasklet>
+				</step>
+			</flow>
+		</split>
+	</job>
+
+	<bean id="taskExecutor"
+		class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+		<property name="corePoolSize" value="25" />
+		<property name="maxPoolSize" value="50" />
+	</bean>
+
+	<bean id="storedProcedureCall"
+		class="com.staples.salesattribution.dao.SalesAttribStoredProcecureTasklet">
+		<property name="dataSource" ref="custExoDataSource" />
+		<property name="sql" value="call SP_SLSATTRIB_EXTRCT_CSTXO2RWDS()" />
+	</bean>
+
+	<bean id="cursorAttributedSalesInfoItemReaderForRetail"
+		class="org.springframework.batch.item.database.JdbcPagingItemReader">
+		<property name="dataSource" ref="custExoDataSource" />
+		<property name="queryProvider" ref="retailAttributedSalesDataQueryProvider" />
+		<property name="pageSize" value="10000" />
+		<property name="rowMapper" ref="attributedSalesDataRowMapper" />
+	</bean>
+
+	<bean id="cursorAttributedSalesInfoItemReaderForOnline"
+		class="org.springframework.batch.item.database.JdbcPagingItemReader">
+		<property name="dataSource" ref="custExoDataSource" />
+		<property name="queryProvider" ref="onlineAttributedSalesDataQueryProvider" />
+		<property name="pageSize" value="10000" />
+		<property name="rowMapper" ref="attributedSalesDataRowMapper" />
+	</bean>
+ 	
+ 	<bean id="retailAttributedSalesDataQueryProvider"
+		class="org.springframework.batch.item.database.support.SqlPagingQueryProviderFactoryBean">
+		<property name="dataSource" ref="custExoDataSource" />
+		<property name="selectClause"
+			value="SELECT /*+ INDEX(RTL IDX_SLS_ATTRIB_PRDCR_STG_RTL1) INDEX(STD IDX_SALESTRANDETAIL_PK) */ RTL.ID,RTL.MEMBERNUMBER,RTL.TRANID,RTL.TRANDATE,RTL.ORDERNUM,RTL.TRANTYPE,RTL.STORENUM,RTL.CONTACTID,RTL.MOP,RTL.DATASUBIND,RTL.SKUQUANTITY,RTL.CLASSNUM,RTL.DEPTNUM,RTL.UNITPRICE,RTL.UNITCOST,RTL.SKUNUM,RTL.SUBCLASSNUM,RTL.EXTENDEDPRICEAMT,RTL.LASTMODDATE,RTL.COUPONAMT,RTL.DISCAMT,RTL.TRANLINEID,RTL.CONSUMABLEIND,RTL.QUALIFYSKU,RTL.SALESTRANID,RTL.SALESTRANLINEITEMID" />
+		<property name="fromClause"
+			value="FROM SLS_ATTRIB_PRDCR_STG_RTL RTL, CEX01_OWN.SALESTRANDETAIL STD" />
+		<property name="whereClause"
+			value="WHERE STD.SALESTRANLINEITEMID=RTL.SALESTRANLINEITEMID AND STD.SALESTRANID = RTL.SALESTRANID AND STD.REWARDDATASENTIND IS NULL" />
+		<property name="sortKey" value="ID" />
+	</bean>
+
+	<bean id="onlineAttributedSalesDataQueryProvider"
+		class="org.springframework.batch.item.database.support.SqlPagingQueryProviderFactoryBean">
+		<property name="dataSource" ref="custExoDataSource" />
+		<property name="selectClause"
+			value="SELECT /*+ INDEX(ONL IDX_SLS_ATTRIB_PRDCR_STG_ONL1) INDEX(STD IDX_SALESTRANDETAIL_PK) */ ONL.ID,ONL.MEMBERNUMBER,ONL.TRANID,ONL.TRANDATE,ONL.ORDERNUM,ONL.TRANTYPE,ONL.STORENUM,ONL.CONTACTID,ONL.MOP,ONL.DATASUBIND,ONL.SKUQUANTITY,ONL.CLASSNUM,ONL.DEPTNUM,ONL.UNITPRICE,ONL.UNITCOST,ONL.SKUNUM,ONL.SUBCLASSNUM,ONL.EXTENDEDPRICEAMT,ONL.LASTMODDATE,ONL.COUPONAMT,ONL.DISCAMT,ONL.TRANLINEID,ONL.CONSUMABLEIND,ONL.QUALIFYSKU,ONL.SALESTRANID,ONL.SALESTRANLINEITEMID" />
+		<property name="fromClause"
+			value="FROM SLS_ATTRIB_PRDCR_STG_ONL ONL, CEX01_OWN.SALESTRANDETAIL STD" />
+		<property name="whereClause"
+			value="WHERE STD.SALESTRANLINEITEMID=ONL.SALESTRANLINEITEMID AND STD.SALESTRANID = ONL.SALESTRANID AND STD.REWARDDATASENTIND IS NULL" />
+		<property name="sortKey" value="ID" />
+	</bean>
+
+	<bean id="attributedSalesDataRowMapper"
+		class="com.staples.salesattribution.batch.AttributedSalesInfoRowMapper" />
+
+	<bean id="attributedSalesInfoJsonProcessor"
+		class="com.staples.salesattribution.batch.AttributedSalesInfoJsonItemProcessor" />
+
+	<bean id="attributedSalesInfoItemWriter"
+		class="com.staples.salesattribution.batch.AttributedSalesInfoItemWriter" />
+		
+ 	<!--
+	<bean id="cursorAttributedSalesInfoItemReaderForRetail"
+		class="org.springframework.batch.item.database.JdbcCursorItemReader">
+		<property name="dataSource" ref="custExoDataSource" />
+		<property name="sql">
+			<value>
+            	<![CDATA[        
+            		SELECT /*+ INDEX(RTL IDX_SLS_ATTRIB_PRDCR_STG_RTL1) */ RTL.* 
+					FROM SLS_ATTRIB_PRDCR_STG_RTL RTL, CEX01_OWN.SALESTRANDETAIL STD
+					WHERE STD.SALESTRANLINEITEMID=RTL.SALESTRANLINEITEMID
+					  AND STD.SALESTRANID = RTL.SALESTRANID
+					  AND STD.REWARDDATASENTIND IS NULL				
+          		]]>
+			</value>
+		</property>
+
+		<property name="rowMapper">
+			<bean
+				class="com.staples.salesattribution.batch.AttributedSalesInfoRowMapper" />
+		</property>
+		<property name="preparedStatementSetter" ref="dateSetter" /> <property 
+			name="useSharedExtendedConnection" value="true" />
+	</bean>
+
+	<bean id="cursorAttributedSalesInfoItemReaderForOnline"
+		class="org.springframework.batch.item.database.JdbcCursorItemReader">
+		<property name="dataSource" ref="custExoDataSource" />
+		<property name="sql">
+			<value>
+            	<![CDATA[        
+            		SELECT /*+ INDEX(ONL IDX_SLS_ATTRIB_PRDCR_STG_ONL1) */ ONL.* 
+					FROM SLS_ATTRIB_PRDCR_STG_ONL ONL, CEX01_OWN.SALESTRANDETAIL STD
+					WHERE STD.SALESTRANLINEITEMID=ONL.SALESTRANLINEITEMID
+					  AND STD.SALESTRANID = ONL.SALESTRANID
+					  AND STD.REWARDDATASENTIND IS NULL					
+          		]]>
+			</value>
+		</property>
+
+		<property name="rowMapper">
+			<bean
+				class="com.staples.salesattribution.batch.AttributedSalesInfoRowMapper" />
+		</property>
+		<property name="preparedStatementSetter" ref="dateSetter" /> <property 
+			name="useSharedExtendedConnection" value="true" /> 
+	</bean>
+	<bean id="dateSetter" class="com.staples.couponallocation.batch.DateSetter" 
+		scope="step"> <property name="date" value="#{jobParameters['cpnSrlCode']}" 
+		/> </bean> 
+	-->
+</beans>
